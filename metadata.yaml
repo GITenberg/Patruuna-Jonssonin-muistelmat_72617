@@ -1,0 +1,33 @@
+_repo: Patruuna-Jonssonin-muistelmat_72617
+_version: 0.0.1
+contributor:
+  translator:
+    agent_name: Haveri, Arvo
+    gutenberg_agent_id: '56761'
+    url: http://www.gutenberg.org/2009/agents/56761
+creator:
+  author:
+    agent_name: Ibsen, Sigurd
+    birthdate: 1859
+    deathdate: 1930
+    gutenberg_agent_id: '25986'
+    url: http://www.gutenberg.org/2009/agents/25986
+    wikipedia: https://en.wikipedia.org/wiki/Sigurd_Ibsen
+description: ''
+gutenberg_issued: '2024-01-06'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '72617'
+language: fi
+pgterms:marc905: 20231210001759sigurd
+pgterms:marc906: '1910'
+pgterms:marc907: FI
+production_note: Juhani Kärkkäinen and Tapio Riikonen
+publication_note: '  $aHämeenlinna :$bArvi A. Karisto, $c1910.'
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Patruuna Jönssonin muistelmat
+url: http://www.gutenberg.org/ebooks/72617
