@@ -5,6 +5,9 @@ contributor:
     agent_name: Haveri, Arvo
     gutenberg_agent_id: '56761'
     url: http://www.gutenberg.org/2009/agents/56761
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Ibsen, Sigurd
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/25986
     wikipedia: https://en.wikipedia.org/wiki/Sigurd_Ibsen
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/72617#Patruuna-Jonssonin-muistelmat
 gutenberg_issued: '2024-01-06'
 gutenberg_type: Text
 identifiers:
